@@ -2,7 +2,8 @@ package dk.eaaa;
 import java.util.ArrayList;
 
 public class BowlingGame {
-
+	
+	private int test;
 	private Frame[] frames;
 	private int currentFrame;
 	private boolean firstRollInFrame;
